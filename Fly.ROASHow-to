@@ -1,0 +1,6 @@
+Send signal to flap
+Flap = Up Then Down
+Land();
+Land = Slow Down, Gently Touch the ground
+Hover();
+Hover = Flap(); and Stay in place
